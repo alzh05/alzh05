@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Adrian!
-🎓 I'm a Computer Science undergraduate who have recently finished my first year at the University of Nottingham, Malaysia Campus.<br>
-🛠️ I have built fundamental software systems including a symptom checker GUI application and a customer record management system.<br>
-🤝 I'm eager to learn from real-world environments and work in collaborative team settings.<br>
-🚀 I am currently seeking internship opportunities to apply my skills, contribute to impactful projects, and grow professionally in the tech industry.<br>
+- 🎓 I'm a Computer Science undergraduate who have recently finished my first year at the University of Nottingham, Malaysia Campus.<br>
+- 🛠️ I have built fundamental software systems including a symptom checker GUI application and a customer record management system.<br>
+- 🤝 I'm eager to learn from real-world environments and work in collaborative team settings.<br>
+- 🚀 I am currently seeking internship opportunities to apply my skills, contribute to impactful projects, and grow professionally in the tech industry.<br>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=alzh05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
