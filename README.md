@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Adrian!
-🧑‍💻 I'm a Computer Science undergraduate who have recently finished my first year at the University of Nottingham, Malaysia Campus.<br>
+🎓 I'm a Computer Science undergraduate who have recently finished my first year at the University of Nottingham, Malaysia Campus.<br>
 🛠️ I have built fundamental software systems including a symptom checker GUI application and a customer record management system.<br>
 🤝 I'm eager to learn from real-world environments and work in collaborative team settings.<br>
 🚀 I am currently seeking internship opportunities to apply my skills, contribute to impactful projects, and grow professionally in the tech industry.<br>
