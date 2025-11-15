@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adrian!
 - 🎓 I am a second-year Computer Science student at University of Nottingham Malaysia.
-- 🤝 I am eager to learn and improve my skills through real-world projects and collaboration.
-- 🚀 I am currently seeking internship opportunities.
+- 🤝 I am passionate about learning new technologies and improving my coding skills.
+- 🚀 I am currently seeking internship opportunities to apply my knowledge and contribute to real-world projects.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=alzh05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
